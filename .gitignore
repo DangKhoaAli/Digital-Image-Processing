@@ -1,3 +1,8 @@
 # Exclude all PyTorch model files within the Saved_Models directory
 Saved_Models/*.pth
 data/
+test/
+correct_predictions/
+wrong_predictions/
+brain-tumor-mri-dataset/
+_pycache__/
